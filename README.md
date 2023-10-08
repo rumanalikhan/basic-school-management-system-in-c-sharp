@@ -1,7 +1,7 @@
 # School Management System
 
 ## Overview
-This School Management System is a command-line application developed by **Ruman Ali** as a project for a programming fundamentals course. The system allows both teachers and students to interact with a basic set of functionalities such as enrollment, updating details, viewing marks and grades, marking attendance, and more. The system uses text files to store student and teacher information, attendance records, marks, and grades.
+This School Management System is a command-line application. The system allows both teachers and students to interact with a basic set of functionalities such as enrollment, updating details, viewing marks and grades, marking attendance, and more. The system uses text files to store student and teacher information, attendance records, marks, and grades.
 
 ## Project Structure
 The project is organized into a single C# file (`Program.cs`) containing the main program logic. The functionalities are divided into methods, providing a modular structure for easy maintenance and understanding.
