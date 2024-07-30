@@ -20,6 +20,4 @@ The project is organized into a single C# file (`Program.cs`) containing the mai
 2. Compile and run the program using a C# compiler or an integrated development environment (IDE) such as Visual Studio.
 3. Follow the on-screen instructions to navigate through the menus and interact with the system.
 
-## Contributions
-As the developer of this School Management System, I, **Ruman Ali**, led the development effort. My contributions and dedication have been instrumental in the creation and improvement of this project.
 
